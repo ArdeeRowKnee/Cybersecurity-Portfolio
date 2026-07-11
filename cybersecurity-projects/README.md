@@ -17,5 +17,5 @@ This project comes from the *Analyze Network Attacks* activity in the Google Cyb
 It covers a simulated single‑source SYN flood attack and shows how abnormal TCP traffic was detected, escalated, and mitigated. 
 The report walks through the attack, the evidence, how the IT team became aware of the issue, and the steps taken to reduce the impact.
 
-[ SYN Flood Incident Report ](link-to-your-md-or-pdf-here)
+[ SYN Flood Incident Report ](https://github.com/ArdeeRowKnee/Cybersecurity-Portfolio/blob/46e88a1baa0b800b9712a2b520c312718a255946/cybersecurity-projects/SYN_Flood_Incident_Report.md.pdf)
 
