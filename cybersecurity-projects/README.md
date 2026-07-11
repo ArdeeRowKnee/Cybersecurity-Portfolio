@@ -1,6 +1,7 @@
 ## Botium Toys Security Audit
 This project is part of Coursera’s *Play It Safe: Manage Security Risks* course.
 It includes a controls and compliance checklist assessing Botium Toys’ adherence to PCI DSS, GDPR, and SOC standards.
+
 [Botium Toys Security Audit](BotiumToys_SecurityAudit.pdf) 
 
 ## Network Layer Communication Analysis
